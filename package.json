@@ -1,0 +1,20 @@
+{
+  "name": "zoho-invoice",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "cd backend && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VarunDev7777/Zoho-Invoice.git"
+  },
+  "description": "Zoho Invoice clone",
+  "author": "Varun",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/VarunDev7777/Zoho-Invoice.git/issues"
+  },
+  "homepage": "https://github.com/VarunDev7777/Zoho-Invoice.git#readme",
+  "dependencies": {}
+}
